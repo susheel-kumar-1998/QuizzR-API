@@ -4119,4 +4119,14 @@
       "d":"Sun temple",
       "answer":"b"
    }
+{
+      "id":424,
+      "difficulty":4,
+      "question":"When did India won first cricket World cup?",
+      "a":"1975",
+      "b":"1983",
+      "c":"1999",
+      "d":"2011",
+      "answer":"b"
+   }
 ]
